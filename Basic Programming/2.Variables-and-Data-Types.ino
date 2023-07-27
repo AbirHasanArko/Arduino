@@ -5,7 +5,7 @@
   // 4. string : "Hello World", "Arduino", ....
 
 // Variable Declaration: 
-  data_type variable_name;
+  // data_type variable_name;
 
 void setup()
 {
