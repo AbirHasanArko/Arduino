@@ -1,3 +1,11 @@
-Arduino Project to make a **Smart Dustbin** using __Arduino Nano / Uno, Micro / Mini Servo,__ and __Ultrasonic Distance Sensor__.
+# Arduino Project to make a **Smart Dustbin**
 
-The **Smart Dustbin** will be able to automatically open the dustbin lid with the __Micro / Mini Servo__ if an object comes closer than a certain distance in front of the __Ultrasonic Distance Sensor__, and automatically close the lid when the object goes away.
+## Components:
+- Arduino Nano / Uno
+- Micro / Mini Servo
+- Ultrasonic Distance Sensor
+
+## Programming:
+- Arduino IDE
+
+The **Smart Dustbin** will be able to automatically open the dustbin lid with the *Micro / Mini Servo* if an object comes closer than a certain distance in front of the *Ultrasonic Distance Sensor*, and automatically close the lid when the object goes away.
