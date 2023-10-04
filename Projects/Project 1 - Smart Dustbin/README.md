@@ -7,5 +7,5 @@
 - Micro / Mini Servo
 - Ultrasonic Distance Sensor
 
-## Programming:
+## Applications:
 - Arduino IDE
